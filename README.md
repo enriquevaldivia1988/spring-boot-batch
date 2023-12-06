@@ -4,7 +4,7 @@
 This project is a Spring Boot developed batch processing application, using Spring Batch for the management and execution of batch jobs. It is designed to be a basic and extensible example of a batch job, capable of processing both CSV and Excel files.
 
 ## Requirements
-- Java 17
+- Java 21
 - Maven
 - Oracle Database (or any other database of your choice)
 
